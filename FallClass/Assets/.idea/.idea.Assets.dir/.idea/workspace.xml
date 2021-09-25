@@ -39,6 +39,7 @@
     <setting file="file://$PROJECT_DIR$/ScriptNineteen.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptTwenty.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptTwentyOne.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UsingInstantiate.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1yZXDqkbPTjPmz3LLixqImtuB8D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632459971566</updated>
-      <workItem from="1632459979331" duration="8522000" />
+      <workItem from="1632459979331" duration="9403000" />
     </task>
     <servers />
   </component>
