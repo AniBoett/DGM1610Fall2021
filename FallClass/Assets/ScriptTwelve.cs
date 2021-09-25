@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class ScriptTwelve : MonoBehaviour
 {
- public Transform target;
-
- void Update()
- {
-  transform.LookAt(target);
- }
+    void Update()
+    {
+        if (Input.GetKey(KeyCode.Space))
+        {
+            Destroy(gameObject);
+        }
+    }
 }
