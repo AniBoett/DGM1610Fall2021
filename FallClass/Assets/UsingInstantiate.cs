@@ -4,18 +4,16 @@ using UnityEngine;
 
 public class UsingInstantiate : MonoBehaviour
 {
- public Rigidbody rocketPrefab;
- public Transform barrelEnd;
+    public GameObject[] players;
 
+    void Start()
+    {
+        players = GameObject.FindGameObjectsWithTag("Player");
 
- void Update()
- {
-  if (Input.GetButtonDown("Fire1"))
-  {
-   Rigidbody rocketInstance;
-   rocketInstance = Instantiate(rocketPrefab,
-    barrelEnd.position, barrelEnd.rotation) as Rigidbody;
-   rocketInstance.AddForce(barrelEnd.forward * 500);
-  }
- }
+        for (int i = 0; i < players.Length; i++)
+        {
+            Debug.Log("Player Number " + i + " is named"
+                      + players[i].name);
+        }
+    }
 }
