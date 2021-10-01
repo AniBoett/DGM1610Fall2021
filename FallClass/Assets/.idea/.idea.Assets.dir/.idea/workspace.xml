@@ -61,6 +61,7 @@
     <setting file="file://$PROJECT_DIR$/ScriptTwentyOne.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PracticeVariables2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/UsingInstantiate.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VariablesPractice3.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1yZXDqkbPTjPmz3LLixqImtuB8D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,7 +89,7 @@
       <updated>1632459971566</updated>
       <workItem from="1632459979331" duration="11626000" />
       <workItem from="1633062962483" duration="2286000" />
-      <workItem from="1633116402183" duration="2401000" />
+      <workItem from="1633116402183" duration="2714000" />
     </task>
     <servers />
   </component>
