@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class DoubleTest : MonoBehaviour
 {
-    private double myNum = 19.99D;
+    private double myNum = 19.99;
     Console.WriteLine(myNum);
 }
