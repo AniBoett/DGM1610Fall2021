@@ -5,6 +5,6 @@ using UnityEngine;
 public class NumberVariable2 : MonoBehaviour
 {
     private int mynum;
-    myNum = 15;
+    myNum = 16;
         Console.WriteLine(myNum);
 }
