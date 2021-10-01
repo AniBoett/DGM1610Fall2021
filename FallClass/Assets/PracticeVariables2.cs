@@ -8,5 +8,6 @@ public class PracticeVariables2 : MonoBehaviour
  private bool nay = false;
  private string greeting = "Hello";
  Console.WriteLine(greeting);
- 
+ private int myInt = 10;
+ Console.WriteLine(Convert.ToString(myInt));
 }
