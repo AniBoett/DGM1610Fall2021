@@ -40,7 +40,9 @@
     <setting file="file://$PROJECT_DIR$/DestroyOther.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DoubleTest.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DestroyComponent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FloatDouble.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GetButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OperatorsTest.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ButtonInput.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptFourteen.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptFifteen.cs" root0="SKIP_HIGHLIGHTING" />
@@ -77,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1632459971566</updated>
       <workItem from="1632459979331" duration="11626000" />
-      <workItem from="1633062962483" duration="1833000" />
+      <workItem from="1633062962483" duration="2221000" />
     </task>
     <servers />
   </component>
