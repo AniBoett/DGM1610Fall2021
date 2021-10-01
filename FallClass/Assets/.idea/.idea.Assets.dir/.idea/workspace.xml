@@ -49,7 +49,9 @@
     <setting file="file://$PROJECT_DIR$/ScriptFifteen.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OtherOperators.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptSixteen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewBehaviourScript1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptSeventeen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogicalOperators.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptEighteen.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptNineteen.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptTwenty.cs" root0="SKIP_HIGHLIGHTING" />
@@ -82,7 +84,7 @@
       <updated>1632459971566</updated>
       <workItem from="1632459979331" duration="11626000" />
       <workItem from="1633062962483" duration="2286000" />
-      <workItem from="1633116402183" duration="622000" />
+      <workItem from="1633116402183" duration="1252000" />
     </task>
     <servers />
   </component>
