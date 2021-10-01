@@ -33,6 +33,7 @@
     <setting file="file://$PROJECT_DIR$/ScriptTen2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NumberVariable2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptEleven.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestingVaraibles.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptTwelve.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DestroyOther.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DestroyComponent.cs" root0="SKIP_HIGHLIGHTING" />
@@ -73,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1632459971566</updated>
       <workItem from="1632459979331" duration="11626000" />
-      <workItem from="1633062962483" duration="679000" />
+      <workItem from="1633062962483" duration="1037000" />
     </task>
     <servers />
   </component>
