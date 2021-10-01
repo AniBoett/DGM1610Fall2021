@@ -23,6 +23,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/PracticeOperators1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MathPractice1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptTwo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptThree.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptFour.cs" root0="SKIP_HIGHLIGHTING" />
@@ -98,7 +99,7 @@
       <updated>1632459971566</updated>
       <workItem from="1632459979331" duration="11626000" />
       <workItem from="1633062962483" duration="2286000" />
-      <workItem from="1633116402183" duration="3213000" />
+      <workItem from="1633116402183" duration="3721000" />
     </task>
     <servers />
   </component>
