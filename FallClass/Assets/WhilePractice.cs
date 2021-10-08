@@ -14,6 +14,6 @@ int i = 0
 while (i < 5)
 {
 Console.WriteLine(i);
-i++;
+i++; //adds value so long as i < 5
 }
 }
