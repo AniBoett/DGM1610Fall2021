@@ -12,6 +12,11 @@ for (int i = 0; i < 10; i++)
         {
             break;
         }
+
+        if (i == 4)
+        {
+            continue;
+        }
     }
     Console.WriteLine("Yes"); //Codeblock executed under above conditions
 }
