@@ -40,6 +40,7 @@
     <setting file="file://$PROJECT_DIR$/ScriptNine.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ForWhilePractice.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptTen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ArraysPractice.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptTen2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptEleven.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ScriptTwelve.cs" root0="SKIP_HIGHLIGHTING" />
@@ -109,7 +110,7 @@
       <workItem from="1633062962483" duration="2286000" />
       <workItem from="1633116402183" duration="5034000" />
       <workItem from="1633563806984" duration="1736000" />
-      <workItem from="1633636781882" duration="1410000" />
+      <workItem from="1633636781882" duration="1772000" />
     </task>
     <servers />
   </component>
