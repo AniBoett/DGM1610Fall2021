@@ -7,6 +7,6 @@ public class ForWhilePractice : MonoBehaviour
 
 for (int i = 0; i < 5; i++)
 {
-    Console.WriteLine(i) //Codeblock executed under above conditions
+    Console.WriteLine("Yes"); //Codeblock executed under above conditions
 }
 }
